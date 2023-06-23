@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\Threads\Threads\bin\Debug\net5.0\Threads.exe
+C:\Users\2107154\source\repos\Threads\Threads\bin\Debug\net5.0\Threads.deps.json
+C:\Users\2107154\source\repos\Threads\Threads\bin\Debug\net5.0\Threads.runtimeconfig.json
+C:\Users\2107154\source\repos\Threads\Threads\bin\Debug\net5.0\Threads.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\Threads\Threads\bin\Debug\net5.0\Threads.dll
+C:\Users\2107154\source\repos\Threads\Threads\bin\Debug\net5.0\Threads.pdb
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\Threads.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\Threads.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\Threads.AssemblyInfo.cs
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\Threads.dll
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\refint\Threads.dll
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\Threads.pdb
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\Threads.genruntimeconfig.cache
+C:\Users\2107154\source\repos\Threads\Threads\obj\Debug\net5.0\ref\Threads.dll

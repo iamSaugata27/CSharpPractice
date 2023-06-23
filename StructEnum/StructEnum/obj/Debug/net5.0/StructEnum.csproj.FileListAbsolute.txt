@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\StructEnum\StructEnum\bin\Debug\net5.0\StructEnum.exe
+C:\Users\2107154\source\repos\StructEnum\StructEnum\bin\Debug\net5.0\StructEnum.deps.json
+C:\Users\2107154\source\repos\StructEnum\StructEnum\bin\Debug\net5.0\StructEnum.runtimeconfig.json
+C:\Users\2107154\source\repos\StructEnum\StructEnum\bin\Debug\net5.0\StructEnum.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\StructEnum\StructEnum\bin\Debug\net5.0\StructEnum.dll
+C:\Users\2107154\source\repos\StructEnum\StructEnum\bin\Debug\net5.0\StructEnum.pdb
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\StructEnum.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\StructEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\StructEnum.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\StructEnum.AssemblyInfo.cs
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\StructEnum.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\StructEnum.dll
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\refint\StructEnum.dll
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\StructEnum.pdb
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\StructEnum.genruntimeconfig.cache
+C:\Users\2107154\source\repos\StructEnum\StructEnum\obj\Debug\net5.0\ref\StructEnum.dll

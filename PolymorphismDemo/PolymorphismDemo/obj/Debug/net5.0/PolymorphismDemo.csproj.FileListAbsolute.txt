@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.exe
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.deps.json
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.runtimeconfig.json
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.dll
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\bin\Debug\net5.0\PolymorphismDemo.pdb
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.AssemblyInfo.cs
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.dll
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\refint\PolymorphismDemo.dll
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.pdb
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\PolymorphismDemo.genruntimeconfig.cache
+C:\Users\2107154\source\repos\PolymorphismDemo\PolymorphismDemo\obj\Debug\net5.0\ref\PolymorphismDemo.dll

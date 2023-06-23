@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\Regexp\Regexp\bin\Debug\net5.0\Regexp.exe
+C:\Users\2107154\source\repos\Regexp\Regexp\bin\Debug\net5.0\Regexp.deps.json
+C:\Users\2107154\source\repos\Regexp\Regexp\bin\Debug\net5.0\Regexp.runtimeconfig.json
+C:\Users\2107154\source\repos\Regexp\Regexp\bin\Debug\net5.0\Regexp.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\Regexp\Regexp\bin\Debug\net5.0\Regexp.dll
+C:\Users\2107154\source\repos\Regexp\Regexp\bin\Debug\net5.0\Regexp.pdb
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\Regexp.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\Regexp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\Regexp.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\Regexp.AssemblyInfo.cs
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\Regexp.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\Regexp.dll
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\refint\Regexp.dll
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\Regexp.pdb
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\Regexp.genruntimeconfig.cache
+C:\Users\2107154\source\repos\Regexp\Regexp\obj\Debug\net5.0\ref\Regexp.dll

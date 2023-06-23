@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.exe
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.deps.json
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.runtimeconfig.json
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.dll
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\net5.0\AbstractClassDemo.pdb
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.AssemblyInfo.cs
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.dll
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\refint\AbstractClassDemo.dll
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.pdb
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\AbstractClassDemo.genruntimeconfig.cache
+C:\Users\2107154\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\net5.0\ref\AbstractClassDemo.dll

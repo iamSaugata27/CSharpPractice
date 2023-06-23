@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.exe
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.deps.json
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.runtimeconfig.json
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.dll
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.pdb
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.AssemblyInfo.cs
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.dll
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\refint\VirtualOverrideDemo.dll
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.pdb
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.genruntimeconfig.cache
+C:\Users\2107154\source\repos\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\ref\VirtualOverrideDemo.dll

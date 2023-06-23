@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.exe
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.deps.json
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.runtimeconfig.json
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.dll
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.pdb
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.AssemblyInfo.cs
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.dll
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\refint\AsynchronousProgramming.dll
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.pdb
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.genruntimeconfig.cache
+C:\Users\2107154\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net5.0\ref\AsynchronousProgramming.dll

@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\bin\Debug\net5.0\DemoInheritance.exe
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\bin\Debug\net5.0\DemoInheritance.deps.json
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\bin\Debug\net5.0\DemoInheritance.runtimeconfig.json
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\bin\Debug\net5.0\DemoInheritance.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\bin\Debug\net5.0\DemoInheritance.dll
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\bin\Debug\net5.0\DemoInheritance.pdb
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\DemoInheritance.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\DemoInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\DemoInheritance.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\DemoInheritance.AssemblyInfo.cs
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\DemoInheritance.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\DemoInheritance.dll
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\refint\DemoInheritance.dll
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\DemoInheritance.pdb
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\DemoInheritance.genruntimeconfig.cache
+C:\Users\2107154\source\repos\DemoInheritance\DemoInheritance\obj\Debug\net5.0\ref\DemoInheritance.dll

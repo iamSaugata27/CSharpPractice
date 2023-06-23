@@ -1,0 +1,15 @@
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\bin\Debug\net6.0\StudentGrades.exe
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\bin\Debug\net6.0\StudentGrades.deps.json
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\bin\Debug\net6.0\StudentGrades.runtimeconfig.json
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\bin\Debug\net6.0\StudentGrades.dll
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\bin\Debug\net6.0\StudentGrades.pdb
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\StudentGrades.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\StudentGrades.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\StudentGrades.AssemblyInfo.cs
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\StudentGrades.dll
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\refint\StudentGrades.dll
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\StudentGrades.pdb
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\StudentGrades.genruntimeconfig.cache
+C:\Users\2107154\source\repos\Unit Testing\StudentGrades\StudentGrades\obj\Debug\net6.0\ref\StudentGrades.dll

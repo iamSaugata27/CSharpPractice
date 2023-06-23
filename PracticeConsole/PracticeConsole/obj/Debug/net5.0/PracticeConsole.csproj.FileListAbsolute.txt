@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\bin\Debug\net5.0\PracticeConsole.exe
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\bin\Debug\net5.0\PracticeConsole.deps.json
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\bin\Debug\net5.0\PracticeConsole.runtimeconfig.json
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\bin\Debug\net5.0\PracticeConsole.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\bin\Debug\net5.0\PracticeConsole.dll
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\bin\Debug\net5.0\PracticeConsole.pdb
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\PracticeConsole.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\PracticeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\PracticeConsole.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\PracticeConsole.AssemblyInfo.cs
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\PracticeConsole.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\PracticeConsole.dll
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\refint\PracticeConsole.dll
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\PracticeConsole.pdb
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\PracticeConsole.genruntimeconfig.cache
+C:\Users\2107154\source\repos\PracticeConsole\PracticeConsole\obj\Debug\net5.0\ref\PracticeConsole.dll

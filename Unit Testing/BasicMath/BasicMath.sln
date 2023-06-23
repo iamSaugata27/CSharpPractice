@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMaths", "BasicMaths\BasicMaths.csproj", "{DFAAB29C-C639-4B98-BBE3-02D3758D6468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMathTest", "BasicMathTest\BasicMathTest.csproj", "{4ADBB76D-86A8-4C53-8735-B3C97F364628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAAB29C-C639-4B98-BBE3-02D3758D6468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAAB29C-C639-4B98-BBE3-02D3758D6468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAAB29C-C639-4B98-BBE3-02D3758D6468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAAB29C-C639-4B98-BBE3-02D3758D6468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADBB76D-86A8-4C53-8735-B3C97F364628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADBB76D-86A8-4C53-8735-B3C97F364628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADBB76D-86A8-4C53-8735-B3C97F364628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADBB76D-86A8-4C53-8735-B3C97F364628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3D136C5-5C80-4DD9-8B40-22A5B6FD04E3}
+	EndGlobalSection
+EndGlobal

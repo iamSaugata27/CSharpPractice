@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tzntqV8NG5s1BJP09pVpHz/DcsPOegv3ULsdwZi1wjztSsJd27UXxCbiyhvwDyjiyt8FisT/P7+4E610TGi9pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2107154\\source\\repos\\ApiCall\\ApiCall\\ApiCall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2107154\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

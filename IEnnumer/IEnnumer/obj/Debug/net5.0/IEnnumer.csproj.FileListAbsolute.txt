@@ -1,0 +1,16 @@
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\bin\Debug\net5.0\IEnnumer.exe
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\bin\Debug\net5.0\IEnnumer.deps.json
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\bin\Debug\net5.0\IEnnumer.runtimeconfig.json
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\bin\Debug\net5.0\IEnnumer.runtimeconfig.dev.json
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\bin\Debug\net5.0\IEnnumer.dll
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\bin\Debug\net5.0\IEnnumer.pdb
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\IEnnumer.csproj.AssemblyReference.cache
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\IEnnumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\IEnnumer.AssemblyInfoInputs.cache
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\IEnnumer.AssemblyInfo.cs
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\IEnnumer.csproj.CoreCompileInputs.cache
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\IEnnumer.dll
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\refint\IEnnumer.dll
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\IEnnumer.pdb
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\IEnnumer.genruntimeconfig.cache
+C:\Users\2107154\source\repos\IEnnumer\IEnnumer\obj\Debug\net5.0\ref\IEnnumer.dll
